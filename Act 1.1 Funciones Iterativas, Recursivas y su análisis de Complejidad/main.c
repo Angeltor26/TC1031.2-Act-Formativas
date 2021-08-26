@@ -30,3 +30,4 @@ int main()
     cout<<recursivo(4)<<endl;
     cout<<sumdire(12)<<endl;
 }
+
