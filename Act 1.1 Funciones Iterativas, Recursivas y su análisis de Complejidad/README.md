@@ -1,4 +1,5 @@
-# Angel Antonio Sánchez Medina A01412516
+# Análisis de complejidad 📈
+
 
 # Suma Iterativa
 Análisis de complejidad temporal
@@ -16,4 +17,4 @@ Analisis de complejidad temporal
 El algoritmo solo se manda a llamar una sola vez, entonces su complejidad es O(1) para el peor de los casos.
 
 ---
-Angel Sánchez 
+Angel Sánchez / A01412516
