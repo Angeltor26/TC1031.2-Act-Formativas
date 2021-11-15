@@ -14,3 +14,6 @@ El algoritmo se manda a llamar así mismo n, de modo recursivo, su complejidad e
 Analisis de complejidad temporal
 
 El algoritmo solo se manda a llamar una sola vez, entonces su complejidad es O(1) para el peor de los casos.
+
+---
+Angel Sánchez 
